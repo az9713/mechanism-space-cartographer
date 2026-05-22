@@ -66,6 +66,8 @@ Three live runs demonstrating the skill on economically distinct domains:
 
 - [`mechanism-space-cre-tenant-renewal.md`](mechanism-space-cre-tenant-renewal.md) — **Commercial real estate**: target metric = tenant renewal rate. 30 mechanisms across 6 families. Economic equation: single prevented vacancy on a 10,000 SF space saves $600K–$1.6M in turnover cost. Key finding: the tenant's broker is the primary adversary in every renewal — financially incentivized to relocate rather than renew — yet almost no landlord has a deliberate broker relationship strategy. Three product opportunities: tenant churn intelligence platform, renewal playbook automation, tenant broker relationship manager.
 
+- [`mechanism-space-personal-savings-rate.md`](mechanism-space-personal-savings-rate.md) — **Individual — personal savings rate**: target metric = monthly savings rate (income − spending) / income. 32 mechanisms across 6 families. Economic equation: each 5% increase in savings rate = 3–5 fewer years of mandatory work. Key finding: the top 6 mechanisms all share one structural property — they remove the recurring decision entirely. Pay-yourself-first, savings escalators, high-friction accounts, and raise capture outperform budgets and willpower because discipline is never required again after one-time setup. Three product opportunities: financial autopilot setup wizard, savings rate accountability system, raise capture service.
+
 ---
 
 ## Quick start
