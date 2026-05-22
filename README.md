@@ -56,6 +56,16 @@ The `mechanism-space-cartographer` Claude Code skill runs a five-phase process:
 
 - [`mechanism-space.md`](mechanism-space.md) — the actual `mechanism-space.md` produced during the web design agency example run: 65 mechanisms across 6 families, top 15 ranked with scores, economic equation, data requirements, and a "what to do this week" action section
 
+### Additional explorations
+
+Three live runs demonstrating the skill on economically distinct domains:
+
+- [`mechanism-space-outbound-sdr.md`](mechanism-space-outbound-sdr.md) — **Outbound B2B SDR agency**: target metric = qualified meetings booked per 100 contacts worked. 30 mechanisms across 6 families. Key finding: the highest-ranked mechanisms are all in the conversion leakage recovery family — no-shows, almost-booked contacts, and negative-reply reactivation sitting unused in every agency's CRM. Three product opportunities: no-show rescue automation, stalled contact reactivation engine, rep performance gap closer.
+
+- [`mechanism-space-insurance-retention.md`](mechanism-space-insurance-retention.md) — **Independent P&C insurance agency**: target metric = policy renewal retention rate. 35 mechanisms across 7 families. Economic equation: each 1% retention improvement ≈ $2,900/year per agency; ~$116M aggregate annual value per 1% industry-wide. Key finding: a phone call made within 24 hours of a claim being filed moves retention from 74% to 91% on the highest-risk segment — the single highest-ROI lever, almost universally ignored. Three product opportunities: churn prioritization engine, claims response automation, household consolidation intelligence.
+
+- [`mechanism-space-cre-tenant-renewal.md`](mechanism-space-cre-tenant-renewal.md) — **Commercial real estate**: target metric = tenant renewal rate. 30 mechanisms across 6 families. Economic equation: single prevented vacancy on a 10,000 SF space saves $600K–$1.6M in turnover cost. Key finding: the tenant's broker is the primary adversary in every renewal — financially incentivized to relocate rather than renew — yet almost no landlord has a deliberate broker relationship strategy. Three product opportunities: tenant churn intelligence platform, renewal playbook automation, tenant broker relationship manager.
+
 ---
 
 ## Quick start
